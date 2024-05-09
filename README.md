@@ -8,41 +8,40 @@ Também possuo algumas Pós-Graduações como por exemplo: Desenvolvimento Web F
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HELLO+WORLD!+👋;+Eu+sou+PedroHSN98!;" />
 </h1>
-
-
+<div  align="center" style="margin-bottom:0px">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PedroHSN98&theme=neon-palenight" alt="GitHub Streak" /></a>
+</div>
 
+<div  align="center" style="margin-bottom:0px">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHSN98&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+</div>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroHSN98&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## My Skills
+
+#### Main Stack:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Workstation Tools:
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHSN98&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PedroHSN98/SEUREPOSITORIO)
 
+## Contatos ✉️
+<div> 
+<a href="https://www.instagram.com/pedrohsn98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "pedrohenriquesn90@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-henrique-santana-nascimento-1591aa24b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://github.com/PedroHSN98" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Imagem da logo do GitHub"></a>
+</div>&nbsp;&nbsp;
 
-
-
-## Habilidades 🧑🏻‍💻
-
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-|---|---|---|---|
-
-## Minhas Ferramentas 🛠️
-
-| ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-|---|---|
-
-## Sistemas Operacionais que Utilizo
-
-| ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) |
-|---|
-
-## Contatos 📱📞✉️
-
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-santana-nascimento-1591aa24b/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroHSN98) |
-|---|---|
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E60030&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0054EA&height=120&section=footer"/>
 
