@@ -39,6 +39,7 @@ Também possuo algumas Pós-Graduações como por exemplo: Desenvolvimento Web F
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />&nbsp;
 
+</br>
 
 
 ## Contatos ✉️
