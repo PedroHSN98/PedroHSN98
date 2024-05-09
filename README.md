@@ -44,3 +44,5 @@ Também possuo algumas Pós-Graduações como por exemplo: Desenvolvimento Web F
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-santana-nascimento-1591aa24b/) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroHSN98) |
 |---|---|
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E60030&height=120&section=footer"/>
+
