@@ -52,7 +52,4 @@ Também possuo algumas Pós-Graduações como por exemplo: Desenvolvimento Web F
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0054EA&height=120&section=footer"/>
 
-![Snake animation](https://github.com/PedroHSN98/PedroHSN98/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=PedroHSN98&repo=PedroHSN98&theme=react)](https:github.com/PedroHSN98/PedroHSN98)
 
