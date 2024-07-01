@@ -56,5 +56,5 @@ Também possuo algumas Pós-Graduações como por exemplo: Desenvolvimento Web F
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0054EA&height=120&section=footer"/>
 
 
-git commit --date "10 day ago"
+
 
