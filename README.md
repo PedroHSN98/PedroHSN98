@@ -3,7 +3,7 @@
 Um breve relado sobre mim :
 
 Sou o Pedro Henrique, mais conhecido como Pêh, sou formado em Engenharia da Computação pela faculdade UNIC Cuiabá.
-Também possuo algumas Pós-Graduações como por exemplo: Desenvolvimento Web Full Stack e Inteligência Artificial e machine learning. Trabalho atualmente na MTI(empresa Mato Grossense de Tecnologia da Informação) como estagiario de pos-graduação e também trabalho na parte da tarde no Patio Raiz. Me considero uma pessoa muito proativa, de facil convivencia e de facil conversação, consigo me acostumar rapidamente com o meu ambiente de trabalho e com minhas demandas de trabalho, possuo um conhecimento geral de tudo e sou uma pessoa que adora aprender.
+Também possuo algumas Pós-Graduações como por exemplo: Desenvolvimento Web Full Stack e Inteligência Artificial e machine learning. Trabalho atualmente na MTI(empresa Mato Grossense de Tecnologia da Informação) como residente tecnico. Me considero uma pessoa muito proativa, de facil convivencia e de facil conversação, consigo me acostumar rapidamente com o meu ambiente de trabalho e com minhas demandas de trabalho, possuo um conhecimento geral de tudo e sou uma pessoa que adora aprender.
 
 # ![snake gif](https://github.com/your-user-name/PedroHSN98/blob/output/github-contribution-grid-snake.gif)
 
