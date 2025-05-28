@@ -5,7 +5,8 @@ Um breve relado sobre mim :
 Sou o Pedro Henrique, mais conhecido como Pêh, sou formado em Engenharia da Computação pela faculdade UNIC Cuiabá.
 Também possuo algumas Pós-Graduações como por exemplo: Desenvolvimento Web Full Stack e Inteligência Artificial e machine learning. Trabalho atualmente na MTI(empresa Mato Grossense de Tecnologia da Informação) como residente tecnico. Me considero uma pessoa muito proativa, de facil convivencia e de facil conversação, consigo me acostumar rapidamente com o meu ambiente de trabalho e com minhas demandas de trabalho, possuo um conhecimento geral de tudo e sou uma pessoa que adora aprender.
 
-# ![snake gif](https://github.com/your-user-name/PedroHSN98/blob/output/github-contribution-grid-snake.gif)
+[![Pedro's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroHSN98&theme=github-compact&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HELLO+WORLD!+👋;" />
