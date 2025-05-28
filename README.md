@@ -24,18 +24,26 @@ Também possuo algumas Pós-Graduações como por exemplo: Desenvolvimento Web F
 ## My Skills
 
 #### Main Stack:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="42" alt="python"  />
+  <img width="10" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" height="42" alt="django" />
+  <img width="12"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="65" alt="mysql" />
+  <img width="12"/>
+</div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Workstation Tools:
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-
-#### 🖍 Design 🔝
+#### 🖍 Design:
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />&nbsp;
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />&nbsp;
@@ -56,6 +64,9 @@ Também possuo algumas Pós-Graduações como por exemplo: Desenvolvimento Web F
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0054EA&height=120&section=footer"/>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/XXXXX/matrix-17974.gif" alt="Matrix animation" width="800"/>
+</p>
 
 
 
