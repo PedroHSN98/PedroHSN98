@@ -8,7 +8,7 @@ Também possuo algumas Pós-Graduações como por exemplo: Desenvolvimento Web F
 # ![snake gif](https://github.com/your-user-name/PedroHSN98/blob/output/github-contribution-grid-snake.gif)
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HELLO+WORLD!+👋;+Eu+sou+PedroHSN98!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HELLO+WORLD!+👋;" />
 </h1>
 <div  align="center" style="margin-bottom:0px">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PedroHSN98&theme=neon-palenight" alt="GitHub Streak" /></a>
