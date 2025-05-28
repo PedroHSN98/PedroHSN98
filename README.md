@@ -1,5 +1,7 @@
-# Olá! Eu sou Pedro Henrique Santana Nascimento
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0054EA&height=120&section=header"/>
 
+# Olá! Eu sou Pedro Henrique Santana Nascimento
+<br>
 Um breve relado sobre mim :
 
 Sou o Pedro Henrique, mais conhecido como Pêh, sou formado em Engenharia da Computação pela faculdade UNIC Cuiabá.
@@ -62,11 +64,18 @@ Também possuo algumas Pós-Graduações como por exemplo: Desenvolvimento Web F
 <a href="https://github.com/PedroHSN98" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Imagem da logo do GitHub"></a>
 </div>&nbsp;&nbsp;
 
+<!-- Visitors Count -->
+<div align="center">
+  <p><b>Visitors Count</b></p>  
+  <img src="https://profile-counter.glitch.me/PedroHSN98/count.svg"/>
+</div>
+<br>
+<div align="center">
+  <p><b>PedroHSN98</b></p>  
+  <img src="https://profile-counter.glitch.me/PedroHSN98/count.svg"/>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0054EA&height=120&section=footer"/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/XXXXX/matrix-17974.gif" alt="Matrix animation" width="800"/>
-</p>
 
 
 
