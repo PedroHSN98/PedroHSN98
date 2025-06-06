@@ -2,10 +2,9 @@
 
 # Olá! Eu sou Pedro Henrique Santana Nascimento
 <br>
-Um breve relado sobre mim :
 
 Sou o Pedro Henrique, mais conhecido como Pêh, sou formado em Engenharia da Computação pela faculdade UNIC Cuiabá.
-Também possuo algumas Pós-Graduações como por exemplo: Desenvolvimento Web Full Stack e Inteligência Artificial e machine learning. Trabalho atualmente na MTI(empresa Mato Grossense de Tecnologia da Informação) como residente tecnico. Me considero uma pessoa muito proativa, de facil convivencia e de facil conversação, consigo me acostumar rapidamente com o meu ambiente de trabalho e com minhas demandas de trabalho, possuo um conhecimento geral de tudo e sou uma pessoa que adora aprender.
+Atualmente estou fazendo Pós-Graduações de BIG DATA (CIÊNCIA DE DADOS), possuo algumas Pós-Graduações ja realizadas como: Desenvolvimento Web Full Stack e Inteligência Artificial e machine learning, Redes de Computadores e Análise e Desenvolvimento de Sistemas. Trabalho atualmente na MTI(empresa Mato Grossense de Tecnologia da Informação) como Residente Tecnico na parte da GCOT como Desenvolvedor Web. Busco melhorar todos os dias em adquirir conhecimento e me aprofundar mentalmente.  
 
 [![Pedro's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroHSN98&theme=github-compact&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
