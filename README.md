@@ -47,9 +47,11 @@ Atualmente estou fazendo Pós-Graduações de BIG DATA (CIÊNCIA DE DADOS), poss
 #### 🖍 Design:
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />&nbsp;
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />&nbsp;
+
 
 </br>
 
@@ -63,16 +65,7 @@ Atualmente estou fazendo Pós-Graduações de BIG DATA (CIÊNCIA DE DADOS), poss
 <a href="https://github.com/PedroHSN98" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Imagem da logo do GitHub"></a>
 </div>&nbsp;&nbsp;
 
-<!-- Visitors Count -->
-<div align="center">
-  <p><b>Visitors Count</b></p>  
-  <img src="https://profile-counter.glitch.me/PedroHSN98/count.svg"/>
-</div>
-<br>
-<div align="center">
-  <p><b>PedroHSN98</b></p>  
-  <img src="https://profile-counter.glitch.me/PedroHSN98/count.svg"/>
-</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0054EA&height=120&section=footer"/>
 
 
