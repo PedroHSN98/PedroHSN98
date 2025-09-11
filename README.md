@@ -3,7 +3,7 @@
 # Olá! Eu sou Pedro Henrique Santana Nascimento
 <br>
 
-Sou o Pedro Henrique, mais conhecido como Pêh, sou formado em Engenharia da Computação pela faculdade UNIC Cuiabá.
+Sou formado em Engenharia da Computação pela faculdade UNIC Cuiabá.
 Atualmente estou fazendo Pós-Graduações de BIG DATA (CIÊNCIA DE DADOS), possuo algumas Pós-Graduações ja realizadas como: Desenvolvimento Web Full Stack e Inteligência Artificial e machine learning, Redes de Computadores e Análise e Desenvolvimento de Sistemas. Trabalho atualmente na MTI(empresa Mato Grossense de Tecnologia da Informação) como Residente Tecnico na parte da GCOT como Desenvolvedor Web. Busco melhorar todos os dias em adquirir conhecimento e me aprofundar mentalmente.  
 
 [![Pedro's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroHSN98&theme=github-compact&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
