@@ -27,15 +27,13 @@ Sou formado em **Engenharia da Computação** pela UNIC Cuiabá. Entusiasta da a
 pedro_henrique = {
     "localização":  "Cuiabá, Mato Grosso - Brasil 🇧🇷",
     "formação":     "Engenharia da Computação — UNIC Cuiabá",
-    "empresa":      "MTI — Mato Grosso Tecnologia da Informação",
-    "cargo":        "Residente Técnico",
     "foco_atual":   ["Desenvolvimento Web", "Engenharia de Dados"],
     "pós_em_curso": "Big Data / Ciência de Dados",
     "pós_concluídas": [
         "Full Stack", "IA & Machine Learning",
         "Redes de Computadores", "Análise de Sistemas"
     ],
-    "aprendendo":   ["Apache Spark", "Airflow", "Power BI"],
+    "aprendendo":   ["Pandas", "Power BI"],
     "fun_fact":     "Código limpo é poesia 🎵"
 }
 ```
