@@ -106,7 +106,6 @@ pedro_henrique = {
 </p>
 
 ---
----
 
 ## 🤝 Vamos nos Conectar!
 
