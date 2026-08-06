@@ -106,20 +106,6 @@ pedro_henrique = {
 </p>
 
 ---
-
-## 🎯 Foco Atual & Aprendizado
-
-<div align="center">
-
-| Área | Tecnologia | Status |
-|------|-----------|--------|
-| ☁️ Cloud | Azure Data Factory | 🔄 Em andamento |
-| 🤖 IA / ML | TensorFlow / PyTorch | 📚 Estudando |
-| 🔁 Orquestração | Apache Airflow | 📚 Estudando |
-| 📈 Visualização | Power BI | 🔄 Em andamento |
-
-</div>
-
 ---
 
 ## 🤝 Vamos nos Conectar!
