@@ -56,12 +56,12 @@ pedro_henrique = {
       <img src="https://streak-stats.demolab.com/?user=PedroHSN98&theme=tokyonight-duo&hide_border=true&stroke=0d1117&background=0d1117&ring=0054EA&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=PedroHSN98&theme=tokyonight&bg_color=0d1117&border_color=0054EA&show_icons=true&icon_color=0054EA&title_color=58A6FF&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=21600" />
+      <img src="https://github-readme-stats-chi-smoky-19.vercel.app/api?username=PedroHSN98&theme=tokyonight&bg_color=0d1117&border_color=0054EA&show_icons=true&icon_color=0054EA&title_color=58A6FF&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=21600" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSN98&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=0054EA&title_color=58A6FF&text_color=ffffff&hide_border=false&langs_count=8&cache_seconds=21600" />
+      <img src="https://github-readme-stats-chi-smoky-19.vercel.app/api/top-langs/?username=PedroHSN98&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=0054EA&title_color=58A6FF&text_color=ffffff&hide_border=false&langs_count=8&cache_seconds=21600" />
     </td>
   </tr>
 </table>
