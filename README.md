@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════ HERO BANNER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a6e,100:0054EA&height=320&section=header&text=Pedro%20Henrique%20S.%20N.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Computação%20%7C%20Dev%20Web%20%7C%20Engenharia%20de%20Dados&descAlignY=60&descAlign=50&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a6e,100:0054EA&height=320&section=header&text=Pedro%20Henrique%20S.%20N.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Computação%20%7C%20Dev%20FullStack%20%7C%20Engenharia%20de%20Dados&descAlignY=60&descAlign=50&descSize=20" />
 
 <!-- Contador de visitas -->
 <img src="https://komarev.com/ghpvc/?username=PedroHSN98&style=for-the-badge&color=0054EA&label=VISITAS+AO+PERFIL" alt="Profile Views" />
